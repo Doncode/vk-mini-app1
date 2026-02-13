@@ -17,7 +17,7 @@
     "cross-env": "^5.2.1",
     "gh-pages": "^2.2.0",
     "react-hot-loader": "^4.12.21",
-    "react-scripts": "^3.4.1"
+    "react-scripts": "^5.0.1"
   },
   "dependencies": {
     "@vkontakte/icons": "^1.20.2",
